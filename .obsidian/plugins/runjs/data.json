@@ -1,0 +1,83 @@
+{
+  "autoRefresh": true,
+  "autostarts": [],
+  "commands": {
+    "command-0": {
+      "name": "Новая задача",
+      "codeName": "Новая задача",
+      "enable": true,
+      "icon": "scroll"
+    },
+    "command-1": {
+      "name": "Новая встреча",
+      "codeName": "Новая встреча",
+      "enable": true,
+      "icon": "scroll"
+    },
+    "command-2": {
+      "name": "Новый проект",
+      "codeName": "Новый проект",
+      "enable": true,
+      "icon": "scroll"
+    },
+    "command-3": {
+      "name": "Новый человек",
+      "codeName": "Новый человек",
+      "enable": true,
+      "icon": "scroll"
+    },
+    "command-4": {
+      "name": "Новый материал",
+      "codeName": "Новый материал",
+      "enable": true,
+      "icon": "scroll"
+    }
+  },
+  "ribbonIcons": [
+    {
+      "name": "Новый человек",
+      "codeName": "Новый человек",
+      "enable": true,
+      "icon": "lucide-user-plus-2"
+    },
+    {
+      "name": "Новый проект",
+      "codeName": "Новый проект",
+      "enable": true,
+      "icon": "lucide-plus-square"
+    },
+    {
+      "name": "Новая задача",
+      "codeName": "Новая задача",
+      "enable": true,
+      "icon": "lucide-hammer"
+    },
+    {
+      "name": "Новая встреча",
+      "codeName": "Новая встреча",
+      "enable": true,
+      "icon": "lucide-calendar-plus-2"
+    }
+  ],
+  "eventHandlers": [],
+  "scriptsFolder": "_Scripts",
+  "logFilePath": "",
+  "logConsole": true,
+  "logNotice": false,
+  "logFile": false,
+  "listviewOpenType": "tab",
+  "listviewSortField": "name",
+  "listviewSortAsc": true,
+  "listviewFilters": {
+    "type": [
+      "script",
+      "module"
+    ],
+    "form": [
+      "codeblock",
+      "file"
+    ]
+  },
+  "listviewCollapse": {},
+  "favoriteCodes": []
+}
